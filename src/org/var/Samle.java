@@ -16,6 +16,10 @@ public class Samle {
 		Samle b=new Samle();
 		b.v();
 		b.k();
+		int no=20;
+		int id1=30;
+		
+		
 				
 
 	}
